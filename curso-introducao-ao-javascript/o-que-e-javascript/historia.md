@@ -12,3 +12,5 @@
 
 ## Segue o padrão ECMAScript
 - Conjunto de normas
+
+[Documentação ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
